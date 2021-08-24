@@ -1,1 +1,1 @@
-# git_test
+This is Kelvin's first git project
